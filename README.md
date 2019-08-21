@@ -1,2 +1,2 @@
 # maven-project
-maven-project test Mule advanced training .
+maven-project test Mule advanced training ..
